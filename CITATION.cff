@@ -10,5 +10,5 @@ date-released: 2025-08-15
 repository-code: "https://github.com/johennie/nfaf-public"
 identifiers:
   - type: doi
-    value: 
+    value: 10.5281/zenodo.16885077
 license: "CC-BY-NC-4.0"
