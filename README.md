@@ -3,6 +3,7 @@
 **Author:** Johennie Helton  
 **Status:** Public Specification (v0.1.0)  
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16885077.svg)](https://doi.org/10.5281/zenodo.16885077)
 
 
 ---
@@ -58,5 +59,6 @@ If you use or reference this framework, please cite:
   title        = {NFAF: Narrative Flattening Analysis Framework (v0.1.0)},
   year         = 2025,
   publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.16885077},
   url          = {https://github.com/johennie/nfaf-public}
 }
