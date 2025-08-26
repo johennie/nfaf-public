@@ -3,8 +3,16 @@
 **Author:** Johennie Helton  
 **Status:** Public Specification (v0.1.0)  
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16885077.svg)](https://doi.org/10.5281/zenodo.16885077)
 
+## Citation & Authorship
+
+If you use or reference this framework, please cite:
+
+Helton, J. (2025). *NFAF: Narrative Flattening Analysis Framework (v0.1.0)*. Zenodo.  
+[https://doi.org/10.5281/zenodo.16885077](https://doi.org/10.5281/zenodo.16885077)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16885077.svg)](https://doi.org/10.5281/zenodo.16885077)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0003--2175--3239-green?logo=orcid)](https://orcid.org/0009-0003-2175-3239)
 
 ---
 
