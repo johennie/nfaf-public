@@ -76,13 +76,13 @@ Note: NFAF is published as pre-existing intellectual property of Johennie Helton
 
 *This rubric is defined at the conceptual level. Future minor releases (v0.2.x) may introduce provisional categorical scoring (e.g., low / medium / high).*
 
-| **Rubric dimension**    | **Core signals (Δ = AI − Source unless noted)**                                                                 | **Notes**                                                                     |
-| ----------------------- | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| **Lexical Richness**    | TTR, MTLD, hapax share, rare-word rate                                                                          | For “rare,” threshold by freq quantile in the source or a reference corpus.   |
-| **Rhythm & Cadence**    | Sentence length mean/variance; syllables/sentence; punctuation cadence (commas/emdashes/ellipses per 1k tokens) | A drop in variance = flattening. Keep to length of chat to see local effects. |
-| **Figurative Density**  | Idiom hits per 1k tokens; simile markers (“like/as a”, “como un/una”); metaphor candidates (if available)       | Start with rule-based proxies; document limitations.                          |
-| **Cultural Register**   | Named entities tied to locale; culture-specific lexicon/idioms; % replaced by generic terms                     | Build small gazetteers for test cultures (places, foods, sayings).            |
-| **Emotional Intensity** | Evaluative/affect lexicon counts; sentiment/subjectivity; LIWC/Empath categories (if used)                      | Track both direction (↑/↓) and range (std dev) of affect.                     |
+| **Rubric dimension**    | **Core signals (Δ = AI − Source unless noted)**                                                                                                     | **Notes**                                                                                    |
+| ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| **Lexical Richness**    | Type–Token Ratio (TTR), Measure of Textual Lexical Diversity (MTLD), hapax legomena share (unique once-used words), rare-word rate                  | For “rare,” threshold by frequency quantile in the source or a reference corpus.             |
+| **Rhythm & Cadence**    | Sentence length mean/variance; syllables per sentence; punctuation cadence (commas, em-dashes, ellipses per 1k tokens)                              | A drop in variance = flattening. Keep to local text length to observe segment-level effects. |
+| **Figurative Density**  | Idiom frequency per 1k tokens; simile markers (“like/as a”, “como un/una”); metaphor candidates (if available)                                      | Start with rule-based proxies; document limitations.                                         |
+| **Cultural Register**   | Named entities tied to locale; culture-specific lexicon/idioms; % replaced by generic terms                                                         | Build small gazetteers for test cultures (places, foods, sayings).                           |
+| **Emotional Intensity** | Evaluative/affect lexicon counts; sentiment/subjectivity measures; categories from tools such as LIWC (Linguistic Inquiry and Word Count) or Empath | Track both direction (↑/↓) and range (standard deviation) of affect.                         |
 
 
 ---
