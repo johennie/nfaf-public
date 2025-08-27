@@ -101,7 +101,7 @@ If you use or reference this framework, please cite:
 ```bibtex
 @software{helton_nfaf_2025,
   author       = {Helton, Johennie},
-  title        = {NFAF: Narrative Flattening Analysis Framework (v0.1.0)},
+  title        = {NFAF: Narrative Flattening Analysis Framework (v0.2.0)},
   year         = 2025,
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.16885077},
