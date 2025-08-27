@@ -14,9 +14,10 @@ identifiers:
     value: 10.5281/zenodo.16958543
 license: "CC-BY-NC-4.0"
 abstract: >
-  The Narrative Flattening Analysis Framework (NFAF) is a methodology for detecting and 
-  analyzing the loss or convergence of cultural, emotional, and stylistic signals in 
-  narratives as they undergo AI-mediated transformations such as translation, summarization, 
-  or rewriting. It provides modular stages for alignment, semantic drift detection, and 
-  pattern analysis, enabling systematic study of meaning loss and homogenization while 
-  supporting cultural preservation and authorship research.
+  The Narrative Flattening Analysis Framework (NFAF) formalizes definitions of narrative, 
+  flattening, and narrative flattening, along with supporting concepts such as semantic drift, 
+  alignment, and signal preservation. This release introduces a high-level rubric with five 
+  conceptual dimensions—lexical richness, rhythm and cadence, figurative density, cultural 
+  register, and emotional intensity—through which flattening effects may be detected and 
+  analyzed. At this stage, the rubric is defined at the conceptual level only, with examples 
+  and provisional scoring methods to be added in future releases
