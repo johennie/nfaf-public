@@ -94,9 +94,9 @@ Examples of these metrics include sentence length variance (prose, journalism), 
           ↓
     Output Language/Modality
 ```
-Notice that CP can be either
-- (a) **internal (black box)** performed by the entity doing the mediation.
-- (b) **external** performed by different entities performing mediations in a chain/pipeline.
+Notice that CP can be either: <br/>
+(a) **internal (black box)** performed by the entity doing the mediation.<br/>
+(b) **external** performed by different entities performing mediations in a chain/pipeline.<br/>
 
 - In contemporary AI translation, this central form is often **Centroid English**, a statistical convergence created by Anglophone training data. Its surface expression is **Algorithmic English**, a normalized register that prioritizes fluency and universality over cultural or stylistic specificity. 
 
