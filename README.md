@@ -88,24 +88,50 @@ Examples of these metrics include sentence length variance (prose, journalism), 
 ```
     Input Language/Modality
           ↓
-       [Centroid Pivot]
+       [Centroid Pivot: either internal (black box) or external (relay)]
           ↓
     Central Form (linguistic, cultural, semiotic default)
           ↓
     Output Language/Modality
 ```
+Notice that CP can be either
+- (a) **internal (black box)** performed by the entity doing the mediation.
+- (b) **external** performed by different entities performing mediations in a chain/pipeline.
 
 - In contemporary AI translation, this central form is often **Centroid English**, a statistical convergence created by Anglophone training data. Its surface expression is **Algorithmic English**, a normalized register that prioritizes fluency and universality over cultural or stylistic specificity. 
 
 ```
     French → [CP] → Centroid English → Spanish
+    
+        Input Language/Modality: French
+          ↓
+       [Centroid Pivot: internal (black box)]
+          ↓
+    Centroid English (linguistic, cultural, semiotic default): statistical, hidden via algorithm
+          ↓
+    Output Language/Modality: Spanish
+    
+    Here the Centroid Pivot is an internal relay step: it happens inside the model, not as a separate visible translation stage but leaves Anglicized traces. 
+    
 ```
+This is an example of CP being performed in an 'internal (black box)' fashion, performed by the entity doing the mediation. In this case the mediation is machine translation, performed by the entity doing the mediation (e.g. an AI model) and the pivot is toward a statistical, hidden Centroid English.
 
 - In historical contexts, Centroid Pivot is visible in relay translation practices. A well-documented case is the Toledo School of Translators in 12th–13th century Spain, where Arabic works on science and philosophy were first rendered into **Castilian Spanish** and only then into Latin. Translation studies frame this as indirect or relay translation (Toury 1995), while cultural historians note how mediation at Toledo shaped what was preserved, neutralized, or erased (Menocal 2002; Santoyo 2009). NFAF situates this as an early precedent of Centroid Pivot: the systemic pull toward a dominant register that, by normalizing through an intermediate mode, risks overwriting nuance in both directions. 
 
 ```
     Arabic → [CP] → Castilian Spanish → Latin
+    
+            Input Language/Modality: Arabic
+          ↓
+       [Centroid Pivot: external,  Castilian oral mediation, visible]
+          ↓
+    Castilian Spanish (linguistic, cultural, semiotic default): intermediate text
+          ↓
+    Output Language/Modality: Latin
+    
+    The relay is external the mediation with oral intermediaries and leaves Spanish traces.
 ```
+This is an example of CP being performed in an 'external' fashion, performed by a series of entities doing mediation steps. In this case the mediation is human translation, performed by a sequence of distinct mediators in a chain or relay (e.g. the Toledan translators), and the pivot is toward Castilian Spanish.
 
 - In multimodal contexts, pivoting extends beyond text: visual systems may converge on dominant color palettes or composition styles; music systems may converge on standardized tunings or rhythms.  
 
