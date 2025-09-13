@@ -1,3 +1,18 @@
+
+Changelog v0.4.0 (2025-09-12)
+
+Separates the Abstract and Introduction sections.
+
+Updates the Definition section by adding the centroid pivot concept, adds basic clarifying diagrams to Drift and Narrative alignment sections.
+
+Updates the Rubrics section by adding subsections with Signals, Testable Predictions, and Anchors.
+
+Added Foundations, Application: Literary Rewrite (Austen, Emma), and Application Across Domains sections.
+
+Added citations and References.
+
+---
+
 Changelog v0.3.0 (2025-09-06)
 
 Consolidates NFAF’s definitional base, adds the centroid english concept.
