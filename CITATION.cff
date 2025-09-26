@@ -3,21 +3,20 @@ title: "NFAF: Narrative Flattening Analysis Framework"
 message: "If you use NFAF in research, please cite this work."
 type: generic
 authors:
-  - family-names: Helton
-    given-names: Johennie
+  - family-names: "Helton"
+    given-names: "Johennie"
     orcid: "https://orcid.org/0009-0003-2175-3239"
-version: 0.5.0
-date-released: 2025-09-26
+version: "0.5.0"
+date-released: "2025-09-26"
 repository-code: "https://github.com/johennie/nfaf-public"
+license: "CC-BY-NC-4.0"
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.16885076
-license: "CC-BY-NC-4.0"
+    value: "10.5281/zenodo.16885076"  
 abstract: >
-The Narrative Flattening Analysis Framework (NFAF) provides a structured method to detect and
-  classify narrative flattening in AI-mediated transformations such as translation, summarization,
-  and rewriting. Version 0.5.0 formalizes the rubric dimensions and seven-stage workflow, expands
-  illustrative applications across literature, journalism, and law, and introduces systematic
-  treatment of structural, semantic, cultural, and jurisdictional flattening. This release also
-  clarifies diagnostic vs. evidential use, and explicitly notes the framework’s cultural scope and
-  limitations, inviting extension beyond Western scholarly traditions.
+  NFAF is a framework for detecting when AI translations, summaries, or rewrites
+  flatten distinctive voices—helping stakeholders see when outputs sound more uniform
+  than their sources. It specifies qualitative indicators and quantitative flags,
+  a seven-stage workflow, and example applications (literature, journalism, law).
+  NFAF is non-prescriptive: it separates detection from judgment and can be adapted
+  beyond Western scholarly traditions.
