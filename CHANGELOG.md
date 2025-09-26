@@ -1,15 +1,42 @@
 
+
+Changelog v0.5.0 (2025-09-26)
+
+Methodological strengthening (alignment confidence, inter-rater reliability, stage-by-stage workflow).
+
+Theoretical disclaimers (cultural scope, diagnostic vs. evidential distinction).
+
+Example expansion (literary, journalism, legal, cross-domain).
+
+
+---
+
+Changelog v0.4.5 (2025-09-16)
+
+Clarified adaptation v definition.
+
+Clarified CP concept.
+
+Added Normative vs. Informative markers.
+
+Added Extensions (§10).
+
+---
+
 Changelog v0.4.0 (2025-09-12)
 
-Separates the Abstract and Introduction sections.
+Abstract & Introduction: Now presented as separate sections for clarity.
 
-Updates the Definition section by adding the centroid pivot concept, adds basic clarifying diagrams to Drift and Narrative alignment sections.
+Definitions: Expanded with the Centroid Pivot concept and clarifying diagrams for Drift and Narrative Alignment.
 
-Updates the Rubrics section by adding subsections with Signals, Testable Predictions, and Anchors.
+Rubric: Subsections now structured with Signals, Testable Predictions, and Anchors.
 
-Added Foundations, Application: Literary Rewrite (Austen, Emma), and Application Across Domains sections.
+Foundations: Added overview of theoretical anchors.
 
-Added citations and References.
+Applications: Includes worked example (Emma, literary rewrite) and cross-domain applications table.
+
+References: Expanded with in-text citations and consolidated bibliography.
+
 
 ---
 

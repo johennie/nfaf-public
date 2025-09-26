@@ -1,0 +1,6 @@
+Model Information
+
+* Model A: ChatGPT running on GPT-5, default settings, free version, website interface.
+* Model B: Claude Sonnet 4 from Anthropic's Claude 4 model family, default settings, free version, website interface.
+* Model C: Gemini 2.5 Flash, default settings, free version, website interface.
+* Model D: DeepL 3.4.1, default settings, free version, website interface.

@@ -6,14 +6,18 @@ authors:
   - family-names: Helton
     given-names: Johennie
     orcid: "https://orcid.org/0009-0003-2175-3239"
-version: 0.4.0
-date-released: 2025-09-12
+version: 0.5.0
+date-released: 2025-09-26
 repository-code: "https://github.com/johennie/nfaf-public"
 identifiers:
   - type: doi
     value: 10.5281/zenodo.16885076
 license: "CC-BY-NC-4.0"
 abstract: >
-  The Narrative Flattening Analysis Framework (NFAF) formalizes definitions of narrative, 
-  flattening, and narrative flattening, along with supporting concepts such as algorithmic/centroid English, semantic drift, 
-  alignment, and signal preservation. This release establishes the theoretical foundations, introduces the centroid pivot concept, and demonstrates its application through a worked literary rewrite example (Austen’s Emma), alongside expanded definitions, rubrics, and references.
+The Narrative Flattening Analysis Framework (NFAF) provides a structured method to detect and
+  classify narrative flattening in AI-mediated transformations such as translation, summarization,
+  and rewriting. Version 0.5.0 formalizes the rubric dimensions and seven-stage workflow, expands
+  illustrative applications across literature, journalism, and law, and introduces systematic
+  treatment of structural, semantic, cultural, and jurisdictional flattening. This release also
+  clarifies diagnostic vs. evidential use, and explicitly notes the framework’s cultural scope and
+  limitations, inviting extension beyond Western scholarly traditions.

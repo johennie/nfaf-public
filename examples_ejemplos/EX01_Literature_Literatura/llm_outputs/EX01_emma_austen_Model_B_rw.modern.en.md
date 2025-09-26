@@ -1,6 +1,6 @@
 ---
 author: Johennie Helton
-date: 2025-09-08
+date: 2025-09-26
 tags: [nfaf_example, EX01, rewrite, emma, austen, model_B, en]
 URL: AI-mediated rewrite to https://www.gutenberg.org/cache/epub/158/pg158.txt
 title: Emma  
